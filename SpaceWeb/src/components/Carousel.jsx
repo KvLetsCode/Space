@@ -19,7 +19,7 @@ export default function Carousel({ count, heading, name, desc, img, href }) {
       <div className="mt-40 ml-10">
         <img
           src={img}
-          className="w-[350px] h-[350px] object-cover"
+          className="w-[350px] h-[350px]"
           alt={name}
         />
       </div>

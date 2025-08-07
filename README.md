@@ -24,4 +24,14 @@ A modern, responsive space-themed web application built using **React**, **Tailw
 ---
 
 ## 📁 Folder Structure
+src/
+├── components/
+│ ├── Carousel.jsx
+│ ├── DestCarousel.jsx
+│ └── Crew.jsx 
+  └── Technology.jsx
+├── assets/
+│ └── images/
+├── App.jsx
+└── main.jsx
 

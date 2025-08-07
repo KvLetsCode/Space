@@ -18,7 +18,9 @@ const data = createRoutesFromElements(
   
 )
 
-const router = createBrowserRouter(data)
+const router = createBrowserRouter(data,{
+  basename:'/Space'
+})
 
 
 function App() {
